@@ -5,9 +5,12 @@ beautifulsoup4==4.7.1
 bleach==3.1.0
 certifi==2019.3.9
 chardet==3.0.4
+Click==7.0
 decorator==4.4.0
 defusedxml==0.6.0
 entrypoints==0.3
+future==0.17.1
+geocoder==1.38.1
 idna==2.8
 ipykernel==5.1.1
 ipython==7.5.0
@@ -41,6 +44,7 @@ python-dateutil==2.8.0
 pytz==2019.1
 pyzmq==18.0.1
 qtconsole==4.5.1
+ratelim==0.1.6
 requests==2.22.0
 Send2Trash==1.5.0
 six==1.12.0
