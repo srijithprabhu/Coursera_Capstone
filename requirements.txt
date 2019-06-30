@@ -55,6 +55,7 @@ ratelim==0.1.6
 requests==2.22.0
 scikit-learn==0.21.2
 scipy==1.3.0
+seaborn==0.9.0
 Send2Trash==1.5.0
 six==1.12.0
 sklearn==0.0
